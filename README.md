@@ -4,6 +4,7 @@ ____
 
 >Implemented system calls in C as a programming assignment of 
 >**course** : Operating Systems and Networks ( Monsoon 21 )
+>to develop a deep understanding of the system calls
 
 ## Given Task
 
